@@ -1,0 +1,205 @@
+--- ZOMBIE ---
+Island: Iron Valley
+Min Level: 1
+Max Level: 5
+Base Health: 20
+Health Scaling Per Level: 8
+Min Damage: 6
+Max Damage: 8
+Damage Scaling Per Level: 0.1
+Discover EXP: 60
+Discover Gold: 45
+Layout Order: 1
+Description: Though slow and clumsy, a decaying corpse that lashes out with bare hands. Weak alone, but deadly in numbers.
+Icon Asset ID: rbxassetid://108142361562060
+
+--- ELITE ZOMBIE ---
+Island: Iron Valley
+Min Level: 1
+Max Level: 10
+Base Health: 70
+Health Scaling Per Level: 25
+Damage (Fixed/Min): 20
+Damage Scaling Per Level: N/A (Missing MaxDamage)
+Discover EXP: 125
+Discover Gold: 90
+Layout Order: 3
+Description: Once a formidable warrior, now a towering husk in battered armor. Swings a massive blade with crushing strength, far more durable and dangerous than its lesser kin.
+Icon Asset ID: rbxassetid://138435924879708
+
+--- DELVER ZOMBIE ---
+Island: Iron Valley
+Min Level: 1
+Max Level: 10
+Base Health: 40
+Health Scaling Per Level: 15
+Min Damage: 12
+Max Damage: 16
+Damage Scaling Per Level: 0.1
+Discover EXP: 185
+Discover Gold: 67.5
+Layout Order: 2
+Description: A corrupted miner still clutching its rusted pickaxe. Years underground have left it gaunt and hunched, but its strikes are swift and relentless, fueled by an endless hunger.
+Icon Asset ID: rbxassetid://118903933110896
+
+--- BRUTE ZOMBIE ---
+Island: Iron Valley
+Min Level: 5
+Max Level: 10
+Base Health: 100
+Health Scaling Per Level: 30
+Min Damage: 20
+Max Damage: 25
+Damage Scaling Per Level: 0.1
+Discover EXP: 625
+Discover Gold: 175
+Layout Order: 4
+Description: A massive, grotesque monstrosity with bulging muscles and stone-like skin. Each thunderous blow can shatter bone, and its sheer size makes it a walking wall of undead terror.
+Icon Asset ID: rbxassetid://97440288907506
+
+--- BOMBER ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 5
+Base Health: 60
+Health Scaling Per Level: 15
+Damage (Fixed/Min): 70
+Damage Scaling Per Level: 0.1
+Discover EXP: 450
+Discover Gold: 200
+Layout Order: 5
+Description: A deranged undead strapped with volatile explosives, rushing toward its foes with reckless abandon. When it goes, it takes everything near it with a bang.
+Icon Asset ID: rbxassetid://113354016461368
+
+--- SKELETON ROGUE ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 75
+Health Scaling Per Level: 5
+Min Damage: 7
+Max Damage: 12
+Damage Scaling Per Level: 0.1
+Discover EXP: 650
+Discover Gold: 175
+Layout Order: 6
+Description: A swift skeleton rogue armed with sharp daggers, striking with silent precision.
+Icon Asset ID: rbxassetid://126419384706599
+
+--- AXE SKELETON ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 125
+Health Scaling Per Level: 10
+Min Damage: 15
+Max Damage: 20
+Damage Scaling Per Level: 0.1
+Discover EXP: 850
+Discover Gold: 400
+Layout Order: 7
+Description: TBD
+Icon Asset ID: rbxassetid://71436931884545
+
+--- DEATHAXE SKELETON ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 5
+Base Health: 300
+Health Scaling Per Level: 30
+Min Damage: 50
+Max Damage: 65
+Damage Scaling Per Level: 0.1
+Discover EXP: 1200
+Discover Gold: 750
+Layout Order: 8
+Description: A towering skeleton wielding a massive axe forged in dark rituals. Animated by bitter hatred, it swings with terrifying precision, cleaving through armor and bone alike.
+Icon Asset ID: rbxassetid://123689741842534
+
+--- ELITE ROGUE SKELETON ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 250
+Health Scaling Per Level: 5
+Min Damage: 45
+Max Damage: 50
+Damage Scaling Per Level: 0.1
+Discover EXP: 1350
+Discover Gold: 1000
+Layout Order: 9
+Description: A stronger, swift skeleton rogue armed with sharp daggers, striking with silent precision.
+Icon Asset ID: rbxassetid://76086753984243
+
+--- ELITE DEATHAXE SKELETON ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 300
+Health Scaling Per Level: 30
+Min Damage: 50
+Max Damage: 65
+Damage Scaling Per Level: 0.1
+Discover EXP: 1500
+Discover Gold: 1500
+Layout Order: 10
+Description: A stronger, towering skeleton wielding a massive axe forged in dark rituals. Animated by bitter hatred, it swings with terrifying precision, cleaving through armor and bone alike.
+Icon Asset ID: rbxassetid://131248627693116
+
+--- BLIGHT PYROMANCER ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 5
+Base Health: 300
+Health Scaling Per Level: 50
+Min Damage: 45
+Max Damage: 50
+Damage Scaling Per Level: 0.1
+Discover EXP: 1500
+Discover Gold: 2000
+Layout Order: 11
+Description: tbd
+Icon Asset ID: rbxassetid://86475494832308
+
+--- REAPER ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 3
+Base Health: 800
+Health Scaling Per Level: 200
+Min Damage: 65
+Max Damage: 75
+Damage Scaling Per Level: 0.1
+Discover EXP: 1750
+Discover Gold: 4500
+Layout Order: 12
+Description: A hulking armored revenant fueled by a burning core where its head once was. Its smoldering hammer leaves fiery trails as it moves, delivering crushing blows with searing, unstoppable force.
+Icon Asset ID: rbxassetid://130002867579337
+
+--- SLIME ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 300
+Health Scaling Per Level: 15
+Damage (Fixed/Min): 20
+Damage Scaling Per Level: 0.1
+Discover EXP: 1200
+Discover Gold: 350
+Layout Order: 13
+Description: A gelatinous mass of corrupted magic, absorbing anything in its path. Though slow, its body reforms endlessly, making it incredibly resilient.
+Icon Asset ID: rbxassetid://118886305700846
+
+--- BLAZING SLIME ---
+Island: Forgotten Kingdom
+Min Level: 1
+Max Level: 10
+Base Health: 600
+Health Scaling Per Level: 30
+Damage (Fixed/Min): 35
+Damage Scaling Per Level: 0.1
+Discover EXP: 1500
+Discover Gold: 500
+Layout Order: 14
+Description: A volatile variation of the Slime, its molten body scorches the ground it touches. Each attack splashes burning goo, turning the battlefield into a fiery trap.
+Icon Asset ID: rbxassetid://102661732659565
